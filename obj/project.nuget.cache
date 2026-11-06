@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YQKZ8yClsco=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahas\\Desktop\\CloudQA-Task1\\CloudQA.SelfHealing\\CloudQA.SelfHealing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahas\\.nuget\\packages\\selenium.support\\4.52.0\\selenium.support.4.52.0.nupkg.sha512",
+    "C:\\Users\\sahas\\.nuget\\packages\\selenium.webdriver\\4.52.0\\selenium.webdriver.4.52.0.nupkg.sha512"
+  ],
+  "logs": []
+}
